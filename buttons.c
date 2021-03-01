@@ -1,16 +1,15 @@
 /*
 
-	Program: 	wiringPi Buttons (buttons.c)
-			 
+    Program: 	wiringPi Buttons (buttons.c)
     Author:  M. Heidenreich, (c) 2021
 
     Description:
     This code is provided in support of the following YouTube tutorial:
-   	https://www.youtube.com/watch?v=9Znf0CnsbXI 
+    https://www.youtube.com/watch?v=9Znf0CnsbXI 
     
-	This 2-part Raspberry Pi GPIO tutorial shows how to correctly use buttons with wiringPi.
-	While I use the buttons to control LEDs, you can use the same approach with any other
-	electronic components (or code in a subroutine/function in general).
+    This 2-part Raspberry Pi GPIO tutorial shows how to correctly use buttons with wiringPi.
+    While I use the buttons to control LEDs, you can use the same approach with any other
+    electronic components (or code in a subroutine/function in general).
 
     THIS SOFTWARE AND LINKED VIDEO TOTORIAL ARE PROVIDED "AS IS" AND THE
     AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING ALL IMPLIED WARRANTIES OF
