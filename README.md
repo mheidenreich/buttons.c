@@ -2,6 +2,8 @@
 This 2-part Raspberry Pi GPIO tutorial shows how to correctly use buttons with wiringPi.
 While I use the buttons to control LEDs, you can use the same approach with any other electronic components (or code in a subroutine/function in general).
 
+Companion YouTube video: https://www.youtube.com/watch?v=9Znf0CnsbXI
+
 gpio command not working or buttons.c does not compile on your system?
 
 Original wiringPi library is deprecated by the original developer and it does not work with latest versions of
